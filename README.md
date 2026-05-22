@@ -6,7 +6,6 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fonceurOk" alt="fonceurOk" /></a>
 
 - 🔭 Je travaille sur mon propre jeu en ce moment
-- 
 
 ## Mes Compétences
 
@@ -15,7 +14,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HAXEFLIXEL](https://img.shields.io/badge/Haxeflixel-ED8B00?style=for-the-badge&logo=haxe&logoColor=white)
+![HAXEFLIXEL](https://img.shields.io/badge/Haxeflixel-ED8B00?style=for-the-badge&logo=haxeflixel&logoColor=white)
 ![HAXE](https://img.shields.io/badge/Haxe-FF6C37?style=for-the-badge&logo=haxe&logoColor=white)
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
