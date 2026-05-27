@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=fonceurOk&label=Profile%20views&color=0e75b6&style=flat" alt="fonceurOk" />
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fonceurOk" alt="fonceurOk" /></a>
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fonceurOk" alt="fonceurOk" /></a> -->
 
 - 🔭 Je travaille sur mon propre jeu en ce moment
 
